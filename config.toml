@@ -25,7 +25,7 @@ paginate = 10
 
 [[menu.main]]
     identifier="blog"
-    name = "Blog"
+    name = "Blogzzz"
     url  = "/blog/"
     weight = 2
 
